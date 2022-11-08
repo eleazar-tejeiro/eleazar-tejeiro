@@ -5,7 +5,7 @@
 
 [![eleazar-tejeiro's github stats](https://github-readme-stats.vercel.app/api/?username=eleazar-tejeiro&count_private=true&show_icons=true&hide=issues,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eleazar-tejeiro&count_private=true&hide=css,html&langs_count=5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eleazar-tejeiro&count_private=true&hide=jupyter%20notebook,css,html&langs_count=5&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
