@@ -1,6 +1,6 @@
 ###  👋 Hello there, I’m @eleazar-tejeiro
-- 👀 I’m currently working as Software Developer at Oktana
-- 🌱 I’m currently learning in depth Android Development, Lightning Web Components and Salesforce
+- 👀 I’m currently working as Software Engineer at Unosquare
+- 🌱 I’m currently learning in depth Backend Development (MuleSoft, Python, Java), Lightning Web Components and Salesforce
 - 📫 How to reach me www.linkedin.com/in/eleazar-tejeiro
 
 [![eleazar-tejeiro's github stats](https://github-readme-stats.vercel.app/api/?username=eleazar-tejeiro&count_private=true&show_icons=true&hide=issues,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
